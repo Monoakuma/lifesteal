@@ -1,0 +1,20 @@
+plugins {
+    id 'java'
+    id 'org.spongepowered.plugin' version '0.9.0'
+}
+
+group = 'io.github.Monoakuma.lifesteal'
+version = '4.00'
+
+sourceCompatibility = '1.8'
+targetCompatibility = '1.8'
+repositories {
+    jcenter()
+}
+dependencies {
+    compileOnly 'org.spongepowered:spongeapi:7.3.0'
+    annotationProcessor 'org.spongepowered:spongeapi:7.3.0'
+}
+
+
+sponge.plugin.id = 'strykae'

@@ -1,0 +1,6 @@
+io/github/monoakuma/lifesteal/strykae/Strykae.java
+ io.github.monoakuma.lifesteal.strykae.Strykae
+io/github/monoakuma/lifesteal/strykae/Spell.java
+ io.github.monoakuma.lifesteal.strykae.Spell
+io/github/monoakuma/lifesteal/strykae/strykaeStatusUpdate.java
+ io.github.monoakuma.lifesteal.strykae.strykaeStatusUpdate

@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "strykae",
+        "name": "Strykae",
+        "version": "4.00",
+        "description": "Strykae is a system that supports the creation of a life economy through hearts that are dropped on death by players that can be eaten to increase one's number of lives, as well as dehumanization and magic",
+        "url": "https://github.com/Monoakuma/lifesteal",
+        "authorList": [
+            "Mono"
+        ],
+        "dependencies": [
+            "spongeapi@7.3.0"
+        ],
+        "requiredMods": [
+            "spongeapi@7.3.0"
+        ]
+    }
+]
